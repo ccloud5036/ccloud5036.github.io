@@ -133,8 +133,8 @@ h1 span {
 /* HERO PHOTO */
 
 .hero-photo {
-    width: 260px;
-    height: 340px;
+    width: 170px;
+    height: 225px;
     overflow: hidden;
     border: 1px solid #333;
 }

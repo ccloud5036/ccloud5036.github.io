@@ -351,9 +351,9 @@ footer {
         grid-template-columns: 1fr;
     }
 
-    .hero-photo {
-    width: 340px;
-    height: 450px;
+.hero-photo {
+    width: 260px;
+    height: 340px;
     overflow: hidden;
     border: 1px solid #333;
 }
@@ -363,6 +363,7 @@ footer {
     height: 100%;
     object-fit: cover;
     object-position: center;
+    display: block;
 }
 
     footer {

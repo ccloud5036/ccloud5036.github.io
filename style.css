@@ -133,10 +133,11 @@ h1 span {
 /* HERO PHOTO */
 
 .hero-photo {
-    width: 170px;
-    height: 225px;
+    width: 320px;
+    height: 420px;
     overflow: hidden;
     border: 1px solid #333;
+    flex-shrink: 0;
 }
 
 .hero-photo img {
@@ -146,7 +147,6 @@ h1 span {
     object-position: center;
     display: block;
 }
-
 
 /* SECTIONS */
 
